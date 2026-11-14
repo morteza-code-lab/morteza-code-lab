@@ -31,7 +31,6 @@ I build practical software solutions, automate repetitive business workflows, an
 - 🟪 **Project Hub:** A local-first team & project management platform built with **FastAPI, Nuxt 3, PostgreSQL, Docker, and WebSockets**.
 - 🤖 **[SmartFlowHub](https://github.com/morteza-code-lab/smart-flow-hub):** AI content & workflow automation dashboard with prompt management and execution logging.
 - 🛒 **[Zistak Store](https://github.com/morteza-code-lab/zistak-hodecode):** Custom WooCommerce theme rebuilt from scratch after a security breach, achieving **100/97/100 Google PageSpeed scores**.
-- ⚡ **Performance Optimization (`mq-jh.ir`):** Boosted mobile PageSpeed score to **87** and reduced server TTFB to **0.24s**.
 - 🎨 **[Naghsh Template](https://github.com/morteza-code-lab/Naghsh):** Multi-page portfolio template featuring RTL/LTR support, Dark Mode, and Liquid Glass UI.
 
 ---
