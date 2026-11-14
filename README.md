@@ -38,3 +38,4 @@ I build practical software solutions, automate repetitive business workflows, an
 ### 📫 Let's Connect & Collaborate
 - 🌐 **Portfolio:** [zaree-digital.ir](https://zaree-digital.ir)
 - 💬 **Telegram:** [@Mortezazaree1385](https://t.me/Mortezazaree1385)
+- 💬 **Linkedin:** [morteza-zaree](linkedin.com/in/morteza-zaree)
